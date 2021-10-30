@@ -1,2 +1,4 @@
 Hello my name is Emilio. I'm originally from Berlin.
 However, I have lived most of my life in the UK.
+I'm currently visiting my dad and taking the TechLabs course at the same time.
+I'm in the Data Science stream.
